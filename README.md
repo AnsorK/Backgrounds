@@ -4,7 +4,7 @@ Using a Convolutional Neural Network with PyTorch to classify what the backgroun
 ## Analysis
 Collected pictures from five different backgrounds: Grass, Ocean, Red carpet, Road, and Wheat field.
 
-Here is a cool picture.
+Here is a cool picture.\
 ![Cool Mountain](cool_pic.png)
 
 Here are some with their corresponding labels.
